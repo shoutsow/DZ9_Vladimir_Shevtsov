@@ -1,0 +1,18 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+
+p {
+	font-size: 24px;
+	text-align: center;
+	font-family: Arial, Helvetica, sans-serif;
+}
+
+.zad1, .zad3, .zad5, .zad7, .zad9 {
+	color: darkblue;
+}
+
+.zad2, .zad4, .zad6, .zad8, .zad10 {
+	color: darkred;
+}
